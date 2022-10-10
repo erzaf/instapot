@@ -1,0 +1,4 @@
+argparse
+pyfiglet
+colorama
+selenium==4.5.0
