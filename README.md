@@ -1,10 +1,11 @@
- ______                   __             ____        __
+ ```______                   __             ____        __
 /\__  _\                 /\ \__         /\  _`\     /\ \__
 \/_/\ \/     ___     ____\ \ ,_\    __  \ \ \L\ \___\ \ ,_\
    \ \ \   /' _ `\  /',__\\ \ \/  /'__`\ \ \ ,__/ __`\ \ \/
     \_\ \__/\ \/\ \/\__, `\\ \ \_/\ \L\.\_\ \ \/\ \L\ \ \ \_
     /\_____\ \_\ \_\/\____/ \ \__\ \__/.\_\\ \_\ \____/\ \__\
     \/_____/\/_/\/_/\/___/   \/__/\/__/\/_/ \/_/\/___/  \/__/
+```
 
 # InstaPot
 An Instagram mass reporter tool, made with love by M0bl3y.
@@ -20,6 +21,7 @@ An Instagram mass reporter tool, made with love by M0bl3y.
 Make sure your chromedrive.exe has same version with your current Chrome browser (you can check and download it from: [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)). And place the **.exe** file inside the **/engine** directory.
 
 # Installation
+
 ```git clone https://github.com/erzaf/instapot```
 
 Dont forget to install the dependencies:
@@ -29,8 +31,7 @@ Dont forget to install the dependencies:
 # Usage
 
 **FIRST**:
-Make sure you have added your sock puppets account username and password inside the **creds.csv** file with the format below:
-(separated by ";" between username and password)
+Make sure you have added your sock puppets account username and password inside the **creds.csv** file with the format below (separated by ";" between username and password):
 
 ```
 username1;password1
@@ -39,9 +40,11 @@ username2;password2
 You can add as much as you have.
 
 Then you are ready using this script by:
+
 ```python instapot.py <target_username>```
 
 Example:
+
 ```python instapot.py abangtukangbaso```
 
 # How it works
