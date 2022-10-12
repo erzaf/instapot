@@ -13,6 +13,7 @@ An Instagram mass reporter tool, made with love by M0bl3y.
 # Warning
 <pre>tested on python 3.9.7</pre>
 
+- **DO NOT MINIMZE THE CHROME OR IT WILL NOT WORK**
 - **The earlier version of this script is only compatible at WINDOWS operating system. So you need to install python version 3 manually first before using this script (the Linux version is under development).**
 
 - **Make sure you have verified sock puppets account, and also make sure the 2FA is disabled on that accounts.**

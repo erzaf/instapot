@@ -16,7 +16,6 @@ class Automate:
         options = webdriver.ChromeOptions()
         options.add_experimental_option('excludeSwitches',['enable-logging'])
         engine = webdriver.Chrome(options=options, executable_path="chromedriver.exe")
-        engine.minimize_window()
         try:
             print("Login with: "+self.username)
             engine.get("https://instagram.com")
