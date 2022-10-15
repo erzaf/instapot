@@ -19,7 +19,7 @@ An Instagram mass reporter tool, made with love by M0bl3y.
 - **Make sure you have verified sock puppets account, and also make sure the 2FA is disabled on that accounts.**
 
 ### Chrome Driver
-Make sure your chromedrive.exe has same version with your current Chrome browser (you can check and download it from: [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)). And place the **.exe** file inside the **/engine** directory.
+Make sure your chromedrive.exe has same version with your current Chrome browser (you can check and download it from: [https://chromedriver.chromium.org/](https://chromedriver.chromium.org/)). And place the **.exe** file inside the **instapot** directory.
 
 # Installation
 
